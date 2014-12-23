@@ -1,0 +1,23 @@
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+.classpath
+.project
+.settings
+.buildpath
+.classpath
+.target
+*.prefs
+.texlipse
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
